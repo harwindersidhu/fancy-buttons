@@ -26,4 +26,4 @@ You may also see any lint errors in the console.
 ## Screenshots
 
 - By the end of the module, our React App will look like this:
-  - !["Fancy-Buttons"](./docs/fancy-buttons.png)
+  !["Fancy-Buttons"](./docs/fancy-buttons.png)
